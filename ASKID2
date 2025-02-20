@@ -1711,7 +1711,7 @@ function OrionLib:MakeWindow(WindowConfig)
 	end  
 	
 	OrionLib:MakeNotification({
-		Name = "Thank you for Using Asaiya Premium Script!",
+		Name = "Thank you for Using Asaiya Premium",
 		Content = "This is a ONE CLICK Script version",
 		Time = 5
 	})
