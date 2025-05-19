@@ -1543,7 +1543,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 				task.wait(math.random(180, 600))
 				RayfieldLibrary:Notify({
 					Title = "Script Notification",
-					Content = "Thank you for using my Script 😭🙏😘",
+					Content = "Script is made by [Asaiya] now belongs to [Exploitguy]",
 					Duration = 7,
 					Image = 4370033185,
 				})
